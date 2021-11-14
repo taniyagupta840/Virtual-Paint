@@ -1,8 +1,7 @@
 # Virtual-Paint
-Draw virtually using any pen.
-```
-```
-<img src="https://github.com/taniyagupta840/Virtual-Paint/blob/master/vp.PNG">
+Draw virtually using any colored pen.
+
+```<img src="https://github.com/taniyagupta840/Virtual-Paint/blob/master/vp.PNG">```
 
 ## Prerequisites
 1. Install Python 3.7.6 from [here](https://www.python.org/downloads/release/python-376/).
